@@ -58,13 +58,6 @@ The table below summarizes the performance of each model based on the evaluation
 - **Random Forest** excels when **recall** is the priority, though it trades off precision slightly.
 - **SVM** is the top choice when **precision** is the most important metric, as it minimizes false positives effectively.
 
-## **How to Run the Project**
-
-  Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-
 ## **Technologies Used**
 - **Python**: Pandas, Scikit-learn, NLTK
 - **TF-IDF Vectorization**
